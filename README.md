@@ -2,6 +2,7 @@
 
 ggthemr
 ========================================================
+[![Join the chat at https://gitter.im/sainathadapa/ggthemr](https://badges.gitter.im/sainathadapa/ggthemr.svg)](https://gitter.im/sainathadapa/ggthemr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![Travis-CI Build Status](https://travis-ci.org/sainathadapa/ggthemr.svg?branch=master)](https://travis-ci.org/sainathadapa/ggthemr)[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/sainathadapa/ggthemr?branch=master&svg=true)](https://ci.appveyor.com/project/sainathadapa/ggthemr)[![codecov.io](http://codecov.io/github/sainathadapa/ggthemr/coverage.svg?branch=master)](http://codecov.io/github/sainathadapa/ggthemr?branch=master)
 
 Themes for ggplot2. The idea of this package is that you can just set the theme and then forget about it. You shouldn't have to change any of your existing code. There are several parts to a theme:
 
